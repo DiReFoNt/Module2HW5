@@ -6,6 +6,7 @@ namespace HW5
     {
         public static void Main(string[] args)
         {
+            Starter.Run();
         }
     }
 }
